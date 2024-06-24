@@ -73,11 +73,7 @@ Feel free to reach out and connect! Let's build something amazing together. 🚀
 
 
 ###
+<img src="https://raw.githubusercontent.com/abbas-mgz/abbas-mgz/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <a href="https://open.spotify.com/user/pcm18ikroe3bnbh2b99r9u7zt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pcm18ikroe3bnbh2b99r9u7zt&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 
