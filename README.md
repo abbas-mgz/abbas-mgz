@@ -38,7 +38,7 @@ I'm a passionate full-stack developer with a strong background in creating moder
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://ih0.redbubble.net/image.4053536786.3862/raf,360x360,075,t,fafafa:ca443f4786.jpg" alt="nestjs"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="nestjs"
             width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
