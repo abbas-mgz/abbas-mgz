@@ -3,7 +3,7 @@
 <h1>Hi there, I'm Abbas! 👋</h1> 
 
 
-## About Me
+# About Me
 
 
 I'm a passionate full-stack developer with a strong background in creating modern web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to build products that provide delightful experiences to users.
@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with a strong background in creating moder
 <br>
 - 😄 Pronouns: He/Him
 
-# Skills
+## Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
