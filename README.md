@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with a strong background in creating moder
 <br>
 - 👯 I’m looking to collaborate on projects that involve innovative solutions and meaningful impact.
 <br>
-- 📫 How to reach me: [info@marghaei.com](mailto:info@marghaei.com)
+- 📫 How to reach me: [info@marghaei.com]
 <br>
 - 😄 Pronouns: He/Him
 
