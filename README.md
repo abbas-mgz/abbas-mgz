@@ -1,9 +1,9 @@
 
+<img src="https://oiomain.s3.amazonaws.com/20a1ad10-f0fe-11ee-a4ca-1962a7ef6b1a?AWSAccessKeyId=AKIAVRLLRLAWNIKWQ47Q&Expires=1719241307&Signature=5kUDriNLfUn1tVQ215QswXJh%2FXQ%3D" width="150px" height="150px">
 # Hi there, I'm Abbas! 👋
 
 ## About Me
 I'm a passionate full-stack developer with a strong background in creating modern web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to build products that provide delightful experiences to users.
-<img src="https://oiomain.s3.amazonaws.com/20a1ad10-f0fe-11ee-a4ca-1962a7ef6b1a?AWSAccessKeyId=AKIAVRLLRLAWNIKWQ47Q&Expires=1719241307&Signature=5kUDriNLfUn1tVQ215QswXJh%2FXQ%3D" width="150px" height="150px">
 - 🌱 I’m currently learning more about microservices architecture and DevOps practices.
 - 👯 I’m looking to collaborate on projects that involve innovative solutions and meaningful impact.
 - 📫 How to reach me: [info@marghaei.com](mailto:info@marghaei.com)
