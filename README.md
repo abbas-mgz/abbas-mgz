@@ -3,10 +3,6 @@
 # Hi there, I'm Abbas! 👋
 
 ## About Me
-<center>
-            <img src="https://oiomain.s3.amazonaws.com/20a1ad10-f0fe-11ee-a4ca-1962a7ef6b1a?AWSAccessKeyId=AKIAVRLLRLAWNIKWQ47Q&Expires=1719241307&Signature=5kUDriNLfUn1tVQ215QswXJh%2FXQ%3D" width="150px" height="150px">
-
-</center>
 
 
 I'm a passionate full-stack developer with a strong background in creating modern web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to build products that provide delightful experiences to users.
@@ -19,7 +15,7 @@ I'm a passionate full-stack developer with a strong background in creating moder
 <br>
 - 😄 Pronouns: He/Him
 
-## Skills
+### Skills
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
