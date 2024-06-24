@@ -47,7 +47,7 @@ I'm a passionate full-stack developer with a strong background in creating moder
             alt="vuejs" width="40" height="40" /> </a> </p>
 
 ## GitHub Stats
-![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbas-mgz&show_icons=true&theme=radical)
 
 ## Connect with Me
 <p align="left">
