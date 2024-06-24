@@ -48,14 +48,14 @@ I'm a passionate full-stack developer with a strong background in creating moder
 
 ## Connect with Me
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abbas-marghaei-918472174/" target="blank"><img
-            align="center"
+    <a href="https://linkedin.com/in/abbas-marghaei-918472174/" target="blank">
+      <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/abbas-marghaei-918472174/" height="30" width="40" /></a>
     <a href="https://instagram.com/abbas_marghaei" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="abbas_marghaei" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/@abbasmgz" target="blank"><img align="center"
+    <a href="https://www.youtube.com/@abbasmgz" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="https://www.youtube.com/@abbasmgz" height="30" width="40" /></a>
 
