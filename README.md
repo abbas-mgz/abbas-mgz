@@ -2,10 +2,9 @@
 
 <h1>Hi there, I'm Abbas! 👋</h1> 
 
-<center>
+<div align="center">
             <img src="https://oiomain.s3.amazonaws.com/20a1ad10-f0fe-11ee-a4ca-1962a7ef6b1a?AWSAccessKeyId=AKIAVRLLRLAWNIKWQ47Q&Expires=1719241307&Signature=5kUDriNLfUn1tVQ215QswXJh%2FXQ%3D" width="150px" height="150px">
-
-</center>
+</div>
 
 ## About Me
 
@@ -73,6 +72,12 @@ Feel free to reach out and connect! Let's build something amazing together. 🚀
             alt="abbasmarghaei" /></a></p><br><br>
 
 
+###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/pcm18ikroe3bnbh2b99r9u7zt">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pcm18ikroe3bnbh2b99r9u7zt&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 
