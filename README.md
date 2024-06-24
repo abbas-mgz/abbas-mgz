@@ -62,9 +62,7 @@ I'm a passionate full-stack developer with a strong background in creating moder
     <a href="https://www.youtube.com/c/https://www.youtube.com/@abbasmgz" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="https://www.youtube.com/@abbasmgz" height="30" width="40" /></a>
-    <a href="/marghaei.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
-            alt="marghaei.com" height="30" width="40" /></a>
+
 </p>
 
 Feel free to reach out and connect! Let's build something amazing together. 🚀
